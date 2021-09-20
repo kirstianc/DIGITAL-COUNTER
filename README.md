@@ -1,5 +1,5 @@
-# COUNTER
-Counter with 2 buttons. 
+# DIGITAL COUNTER
+Digital counter with 2 buttons. 
 Increment will increase counter, decrement will decrease counter. 
 
 Each run will reset Counter to 0.
